@@ -1,0 +1,32 @@
+.testimonials {
+    padding: 2rem 0;
+    text-align: center;
+    background: #f7f1e3;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .testimonial {
+    display: inline-block;
+    width: 45%;
+    margin: 1.5%;
+    vertical-align: top;
+  }
+  
+  .testimonial p {
+    font-size: 1rem;
+    font-style: italic;
+    color: #4b3e4d;
+  }
+  
+  .testimonial h4 {
+    font-size: 1rem;
+    margin-top: 1rem;
+    font-weight: bold;
+    color: #4b3e4d;
+  }
+
+  

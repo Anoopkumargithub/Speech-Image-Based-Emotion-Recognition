@@ -1,0 +1,17 @@
+.aboutUs {
+  padding: 2rem 0;
+  text-align: center;
+  background: #f7f1e3;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+p {
+  font-size: 1rem;
+  max-width: 600px;
+  margin: auto;
+  color: #4b3e4d;
+}

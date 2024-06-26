@@ -1,0 +1,47 @@
+/* Login.module.css */
+
+.login-container {
+    background: url('/login-bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .login-form {
+    background: #ffffff; /* White background for the form container */
+    padding: 20px;
+    border-radius: 10px;
+    width: 25%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Box shadow for the form container */
+  }
+  
+  .login-form h2 {
+    margin-bottom: 20px;
+    color: #333333; /* Dark color for headings */
+  }
+  
+  .login-form .form-control {
+    margin-bottom: 15px;
+    border-radius: 0;
+  }
+  
+  .login-form .btn-success {
+    border-radius: 0;
+  }
+  
+  .login-form .sign-up-link {
+    margin-top: 10px;
+    text-align: center;
+    color: #333333; /* Dark color for text */
+  }
+  
+  .sign-up-link a {
+    color: #007bff; /* Blue color for links */
+    text-decoration: none;
+  }
+  
+  .sign-up-link a:hover {
+    text-decoration: underline; /* Underline on hover for links */
+  }
+  

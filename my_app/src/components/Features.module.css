@@ -1,0 +1,33 @@
+.features {
+    padding: 2rem 0;
+    text-align: center;
+    background: #f7f1e3;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .featureItem {
+    display: inline-block;
+    width: 30%;
+    margin: 1.5%;
+    vertical-align: top;
+  }
+  
+  .featureItem img {
+    height: 80px;
+  }
+  
+  h3 {
+    font-size: 1.5rem;
+    margin: 1rem 0;
+    color: #4b3e4d;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: #564d4a;
+  }
+  

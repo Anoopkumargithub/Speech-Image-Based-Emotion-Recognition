@@ -1,0 +1,30 @@
+.footer {
+    background-color: #564d4a;
+    color: #d9c8ae;
+    padding: 1rem 0;
+    text-align: center;
+  }
+  
+  .footerLinks {
+    margin-bottom: 1rem;
+  }
+  
+  .footerLinks a {
+    color: #d9c8ae;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .contactInfo {
+    margin-bottom: 1rem;
+  }
+  
+  .socialMedia a {
+    margin: 0 10px;
+  }
+  
+  .socialMedia img {
+    height: 30px;
+  }
+
+  
